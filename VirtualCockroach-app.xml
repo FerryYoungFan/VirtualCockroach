@@ -18,7 +18,7 @@
 -->
 <application xmlns="http://ns.adobe.com/air/application/26.0">
   <id>com.FanSeline.VirtualCockroach</id>
-  <versionNumber>1.0</versionNumber>
+  <versionNumber>1.1</versionNumber>
   <filename>VirtualCockroach</filename>
   <description>帆帆无聊开发的蟑螂:)</description>
   <name>VirtualCockroach</name>
@@ -31,11 +31,11 @@
     <fullScreen>false</fullScreen>
     <aspectRatio>portrait</aspectRatio>
     <renderMode>auto</renderMode>
-    <maximizable>true</maximizable>
-    <minimizable>true</minimizable>
-    <resizable>true</resizable>
-    <x>0</x>
-    <y>0</y>
+    <maximizable>false</maximizable>
+    <minimizable>false</minimizable>
+    <resizable>false</resizable>
+    
+    
   </initialWindow>
   <icon>
     
