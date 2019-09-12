@@ -5,6 +5,9 @@
 一只蟑螂桌面“宠物”<br/><br/>
 帆帆找工作无聊时开发的……<br/>
 算是恶趣味设计吧……<br/>
+Google Drive 下载地址：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65KbeltLZN9mGyb
+<br/>↑↑↑专门给找不到下载地方的人用，仅有 Windows 单文件版↑↑↑
+<br/>
 <br/>
 软件开发方式：Adobe Air（对，就是那个万恶的Flash）
 <br/>
