@@ -1,4 +1,0 @@
-更新说明：
-对多显示器以及更奇葩的分辨率进行了支持。
-
-Support multi-screens
