@@ -18,7 +18,7 @@
 -->
 <application xmlns="http://ns.adobe.com/air/application/26.0">
   <id>com.FanSeline.VirtualCockroach</id>
-  <versionNumber>1.3</versionNumber>
+  <versionNumber>1.4</versionNumber>
   <filename>VirtualCockroach</filename>
   <description>帆帆无聊开发的蟑螂:)</description>
   <name>VirtualCockroach</name>
