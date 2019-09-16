@@ -1,0 +1,5 @@
+此 App 基于Adobe Air开发
+但是无法直接打包 Adobe Air 运行环境给Mac，所以Mac系统需要去
+https://get.adobe.com/cn/air/otherversions/
+下载框架，版本选26.0及以上就可以。
+安装运行环境后就可以点击 VirtualCockroach V***.air 包来安装此软件了
