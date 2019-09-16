@@ -16,6 +16,10 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 ![alt text](https://github.com/FerryYoungFan/VirtualCockroach/blob/master/screenshot.png)
 <br/><br/>
 # 更新日志 - Change Log
+-V014<br/>
+1. 【重要】加入了商店系统！ Add shop system!<br/>
+2. 修复了一些bug Fixed some bugs <br/>
+<br/>
 -V013<br/>
 1. 现在支持英文了！ Now supports English!<br/>
 2. 可以点击图标来最小化应用 Can be minimized by clicking the task bar icon <br/>
