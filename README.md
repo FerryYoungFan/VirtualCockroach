@@ -1,4 +1,4 @@
-# 宠物小强模拟器 - VirtualCockroach
+# 宠物小强模拟器 - VirtualCockroach (Windows & mac OS)
 ```diff
 - 注意！请充分考虑周围人的接受能力后再使用此软件，以防止意外发生！-
 - Warning! Please think of others. The author assumes no responsibility for a damaged screen!-
@@ -7,7 +7,7 @@
 帆帆找工作无聊时开发的…… - Written by FanKetchup...<br/>
 算是恶趣味设计吧…… - Just a bad taste meme... <br/>
 Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65KbeltLZN9mGyb
-<br/>↑↑↑专门给找不到下载地方的人用，仅有 Windows 单文件版↑↑↑
+<br/>↑↑↑专门给找不到下载地方的人用 -For users who cannot find the download link↑↑↑
 <br/>
 <br/>
 软件开发方式：Adobe Air（对，就是那个万恶的Flash）
@@ -18,7 +18,8 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 # 更新日志 - Change Log
 -V014<br/>
 1. 【重要】加入了商店系统！ Add shop system!<br/>
-2. 修复了一些bug Fixed some bugs <br/>
+2. 修复了一些错误  Fixed some bugs <br/>
+3. 支持mac系统了！ Now supports mac OS!<br/>
 <br/>
 -V013<br/>
 1. 现在支持英文了！ Now supports English!<br/>
