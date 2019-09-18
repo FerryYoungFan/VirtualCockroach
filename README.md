@@ -16,8 +16,13 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 ![alt text](https://github.com/FerryYoungFan/VirtualCockroach/blob/master/screenshot.png)
 <br/><br/>
 # 更新日志 - Change Log
+-V016<br/>
+1. 更新了喂食模块 Update feeding module<br/>
+2. 加入了系统托盘快捷菜单 Add system tray menu<br/>
+3. 修复了一些错误  Fixed some bugs <br/>
+<br/>
 -V015<br/>
-1. 【重要】加入了转转乐！ Add "Lucky Wheel"!<br/>
+1. 加入了转转乐！ Add "Lucky Wheel"!<br/>
 2. 更换了图标  Change icons <br/>
 <br/>
 -V014<br/>
