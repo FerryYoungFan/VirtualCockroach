@@ -16,6 +16,15 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 ![alt text](https://github.com/FerryYoungFan/VirtualCockroach/blob/master/screenshot.png)
 <br/><br/>
 # 更新日志 - Change Log
+-V017<br/>
+1. 修复了一些错误  Fixed some bugs <br/>
+2. 加入了彩蛋！ Add Easter egg!* <br/>
+*触发条件： Conditions: <br/>
+-年龄 / Age > 600 min<br/>
+-好感度/ Favor > 0<br/>
+-名字包含 Name with substring: "偏指" / "JansonJohn"<br/>
+
+<br/>
 -V016<br/>
 1. 更新了喂食模块 Update feeding module<br/>
 2. 加入了系统托盘快捷菜单 Add system tray menu<br/>
