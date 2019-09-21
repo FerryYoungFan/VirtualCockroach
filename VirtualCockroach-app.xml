@@ -18,11 +18,11 @@
 -->
 <application xmlns="http://ns.adobe.com/air/application/26.0">
   <id>com.FanSeline.VirtualCockroach</id>
-  <versionNumber>1.6</versionNumber>
+  <versionNumber>1.7</versionNumber>
   <filename>VirtualCockroach</filename>
-  <description>帆帆无聊时开发的宠物蟑螂   Virtual Cockroach by @FanKetchup    https://github.com/FerryYoungFan/VirtualCockroach</description>
+  <description>VirtualCockroach By @FanKetchup</description>
   <name>VirtualCockroach</name>
-  <copyright>FanKetchup</copyright>
+  <copyright>FanSeline - FerryYoungFan</copyright>
   <initialWindow>
     <content>VirtualCockroach.swf</content>
     <systemChrome>none</systemChrome>
@@ -34,17 +34,12 @@
     <maximizable>false</maximizable>
     <minimizable>true</minimizable>
     <resizable>false</resizable>
-    
-    
   </initialWindow>
   <icon>
-    
-    
-    
-    <image128x128>ImagePack/icon_iconPack/icon_Desktop_128x128.png</image128x128>
-    <image48x48>ImagePack/icon_iconPack/icon_Desktop_48x48.png</image48x48>
-    <image32x32>ImagePack/icon_iconPack/icon_Desktop_32x32.png</image32x32>
     <image16x16>ImagePack/icon_iconPack/icon_Desktop_16x16.png</image16x16>
+    <image32x32>ImagePack/icon_iconPack/icon_Desktop_32x32.png</image32x32>
+    <image48x48>ImagePack/icon_iconPack/icon_Desktop_48x48.png</image48x48>
+    <image128x128>ImagePack/icon_iconPack/icon_Desktop_128x128.png</image128x128>
   </icon>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
