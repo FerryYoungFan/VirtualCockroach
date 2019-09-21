@@ -27,7 +27,7 @@
     <content>VirtualCockroach.swf</content>
     <systemChrome>none</systemChrome>
     <transparent>true</transparent>
-    <visible>true</visible>
+    <visible>false</visible>
     <fullScreen>false</fullScreen>
     <aspectRatio>portrait</aspectRatio>
     <renderMode>auto</renderMode>
