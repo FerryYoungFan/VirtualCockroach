@@ -19,6 +19,7 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 <br/>
 -V017b<br/>
 1. 隐藏了任务栏图标 Hide taskbar icon<br/>
+2. 增加启动动画 Add startup animation<br/>
 <br/>
 -V017<br/>
 1. 修复了一些错误  Fixed some bugs <br/>
