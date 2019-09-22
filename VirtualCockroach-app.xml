@@ -18,9 +18,9 @@
 -->
 <application xmlns="http://ns.adobe.com/air/application/26.0">
   <id>com.FanSeline.VirtualCockroach</id>
-  <versionNumber>1.7</versionNumber>
+  <versionNumber>1.8</versionNumber>
   <filename>VirtualCockroach</filename>
-  <description>VirtualCockroach By @FanKetchup</description>
+  <description>VirtualCockroach By @FanKetchup / FerryYoungFan</description>
   <name>VirtualCockroach</name>
   <copyright>FanSeline - FerryYoungFan</copyright>
   <initialWindow>
@@ -36,10 +36,10 @@
     <resizable>false</resizable>
   </initialWindow>
   <icon>
-    <image16x16>ImagePack/icon_iconPack/icon_Desktop_16x16.png</image16x16>
-    <image32x32>ImagePack/icon_iconPack/icon_Desktop_32x32.png</image32x32>
-    <image48x48>ImagePack/icon_iconPack/icon_Desktop_48x48.png</image48x48>
-    <image128x128>ImagePack/icon_iconPack/icon_Desktop_128x128.png</image128x128>
+    <image16x16>Source_iconPack/icon_Desktop_16x16.png</image16x16>
+    <image32x32>Source_iconPack/icon_Desktop_32x32.png</image32x32>
+    <image48x48>Source_iconPack/icon_Desktop_48x48.png</image48x48>
+    <image128x128>Source_iconPack/icon_Desktop_128x128.png</image128x128>
   </icon>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
