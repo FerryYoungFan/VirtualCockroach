@@ -17,6 +17,19 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 <br/><br/>
 # 更新日志 - Change Log
 <br/>
+-V018<br/>
+1. 修复了一些错误  Fixed some bugs <br/>
+2. 针对exe病毒误报问题采取一些措施 Focus on the exe virus misreport issue<br/><br/>
+
+【如果您不信任单独的exe文件】<br/>
+（从017b开始隐藏了初始窗口，可能杀毒软件误报）<br/>
+可以使用zip文件，也可以使用此Air包来安装（*.air 文件）<br/>
+<br/>
+*** If you do not trust the standalone *.exe file ***:<br/>
+(From V017b, this app hides its initial window, which may be reported by antivirus software)<br/>
+You can either use the zip file directly, or: You can install the Air pack (*.air file)<br/>
+<br/>
+<br/>
 -V017b<br/>
 1. 隐藏了任务栏图标 Hide taskbar icon<br/>
 2. 增加启动动画 Add startup animation<br/>
