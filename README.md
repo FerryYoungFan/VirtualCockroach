@@ -12,9 +12,11 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 <br/>
 软件开发方式：Adobe Air（对，就是那个万恶的Flash）
 <br/>
-<br/>程序预览<br/>
+<br/>程序预览 Preview<br/>
 ![alt text](https://github.com/FerryYoungFan/VirtualCockroach/blob/master/screenshot.png)
 <br/><br/>
+# 番外篇 - Extra Episode
+[《满桌小强》- So Many Roaches](https://github.com/FerryYoungFan/SoManyRoaches "So Many Roaches")
 # 更新日志 - Change Log
 <br/>
 -V018<br/>
