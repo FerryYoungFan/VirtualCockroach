@@ -19,7 +19,7 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 [《满桌小强》- So Many Roaches](https://github.com/FerryYoungFan/SoManyRoaches "So Many Roaches")
 # 更新日志 - Change Log
 <br/>
-### V019
+-V019<br/>
 新增“闲逛开关”  Add "Hang Around" option<br/>
 
 <br/>
