@@ -19,49 +19,53 @@ Google Drive：https://drive.google.com/drive/u/0/folders/1mBdkCHwaTNPxyKeIj65Kb
 [《满桌小强》- So Many Roaches](https://github.com/FerryYoungFan/SoManyRoaches "So Many Roaches")
 # 更新日志 - Change Log
 <br/>
+-V019<br/>
+新增“闲逛开关”  Add "Hang Around" option<br/>
+
+<br/>
 -V018<br/>
-1. 修复了一些错误  Fixed some bugs <br/>
-2. 针对exe病毒误报问题采取一些措施 Focus on the exe virus misreport issue<br/><br/>
+1. 修复了一些错误   Fixed some bugs <br/>
+2. 针对exe病毒误报问题采取一些措施  Focus on the exe virus misreport issue<br/><br/>
 
 【如果您不信任单独的exe文件】<br/>
 （从017b开始隐藏了初始窗口，可能杀毒软件误报）<br/>
-可以使用zip文件，也可以使用此Air包来安装（*.air 文件）<br/>
+可以使用zip文件，也可以使用此Air包来安装（.air 文件）<br/>
 <br/>
-*** If you do not trust the standalone *.exe file ***:<br/>
+【If you do not trust the standalone .exe file】:<br/>
 (From V017b, this app hides its initial window, which may be reported by antivirus software)<br/>
-You can either use the zip file directly, or: You can install the Air pack (*.air file)<br/>
+You can either use the zip file directly, or: You can install the Air pack (.air file)<br/>
 <br/>
 <br/>
 -V017b<br/>
-1. 隐藏了任务栏图标 Hide taskbar icon<br/>
-2. 增加启动动画 Add startup animation<br/>
+1. 隐藏了任务栏图标  Hide taskbar icon<br/>
+2. 增加启动动画  Add startup animation<br/>
 <br/>
 -V017<br/>
-1. 修复了一些错误  Fixed some bugs <br/>
-2. 加入了彩蛋！ Add Easter egg!* <br/>
-*触发条件： Conditions: <br/>
+1. 修复了一些错误   Fixed some bugs <br/>
+2. 加入了彩蛋！  Add Easter egg!* <br/>
+*触发条件：  Conditions: <br/>
 -年龄 / Age > 600 min<br/>
 -好感度 / Favor > 0<br/>
--名字包含 Name with substring: "偏指" / "JansonJohn"<br/>
+-名字包含  Name with substring: "偏指" / "JansonJohn"<br/>
 
 <br/>
 -V016<br/>
-1. 更新了喂食模块 Update feeding module<br/>
-2. 加入了系统托盘快捷菜单 Add system tray menu<br/>
-3. 修复了一些错误  Fixed some bugs <br/>
+1. 更新了喂食模块  Update feeding module<br/>
+2. 加入了系统托盘快捷菜单  Add system tray menu<br/>
+3. 修复了一些错误   Fixed some bugs <br/>
 <br/>
 -V015<br/>
-1. 加入了转转乐！ Add "Lucky Wheel"!<br/>
-2. 更换了图标  Change icons <br/>
+1. 加入了转转乐！  Add "Lucky Wheel"!<br/>
+2. 更换了图标   Change icons <br/>
 <br/>
 -V014<br/>
-1. 【重要】加入了商店系统！ Add shop system!<br/>
-2. 修复了一些错误  Fixed some bugs <br/>
-3. 支持mac系统了！ Now supports mac OS!<br/>
+1. 【重要】加入了商店系统！  Add shop system!<br/>
+2. 修复了一些错误   Fixed some bugs <br/>
+3. 支持mac系统了！  Now supports mac OS!<br/>
 <br/>
 -V013<br/>
-1. 现在支持英文了！ Now supports English!<br/>
-2. 可以点击图标来最小化应用 Can be minimized by clicking the task bar icon <br/>
+1. 现在支持英文了！  Now supports English!<br/>
+2. 可以点击图标来最小化应用  Can be minimized by clicking the task bar icon <br/>
 <br/>
 -V012<br/>
 1. 支持置顶在窗口前<br/>
